@@ -1,0 +1,27 @@
+.conteiner-quartos img {
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+}
+.informacao-quarto {
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+}
+.lista-informacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.lista-informacao li {
+    width: 230px;
+    text-align: left;
+}
+.rodape {
+    margin-top: 30px;
+}
